@@ -1,3 +1,6 @@
+![banner](https://github.com/harsh3099/harsh3099/assets/77196345/16fa3f2a-c486-44e9-bb7d-908d5785ff45)
+
+
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding"  width="400"  src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gbz772bbx5n0gsfab52yg4uqjin5t623r2kgdw1e&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
